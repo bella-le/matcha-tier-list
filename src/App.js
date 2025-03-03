@@ -9,12 +9,12 @@ function App() {
     <Router basename="/matcha-tier-list">
       <div className="App">
         <nav>
-          <Link to="/">Tier List</Link>
+          <Link to="/matcha-tier-list">Tier List</Link>
           <Link to="/brands">Brands</Link>
         </nav>
         
         <Routes>
-          <Route path="/" element={<TierList />} />
+          <Route path="/matcha-tier-list" element={<TierList />} />
           <Route path="/brands" element={<BrandList />} />
         </Routes>
       </div>
