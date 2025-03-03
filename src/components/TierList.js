@@ -51,6 +51,8 @@ const TierList = () => {
     <div className="tier-list">
       <div className="tier-list-header">
         <h1>bella's matcha tier list 🍵</h1>
+        <p>A stack-ranked tier list of all the matchas I've ever tried!!
+          If you have any recommendations please email me at <span style={{ textDecoration: 'underline' }}>hello@bella-le.com</span> :)</p>
         <div className="filters">
           <input
             type="text"
