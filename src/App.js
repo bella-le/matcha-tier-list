@@ -6,7 +6,7 @@ import BrandList from './components/BrandList';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/matcha-tier-list">
       <div className="App">
         <nav>
           <Link to="/">Tier List</Link>
