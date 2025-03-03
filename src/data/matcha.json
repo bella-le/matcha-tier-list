@@ -1,0 +1,67 @@
+{
+  "matchas": [
+    {
+      "brand": "kettl",
+      "name": "Soukou",
+      "tags": ["toasty", "smooth", "beginner-friendly", "nutty"],
+      "pricePerGram": 0.95,
+      "description": "The container is WAY too small. This is one of my favorite matchas though. The smell is nutty and toasty and the flavor is really inoffensive and easy to drink as a latte. It takes on the secondary flavor of whatever sweetener is used with it but in a way that it doesn't overwhelm the base flavor.",
+      "imageUrl": "https://kettl.co/cdn/shop/files/71dadfc65a5467fb49d7fefe23eadf11_1680x.jpg?v=1715183760",
+      "productUrl": "https://kettl.co/products/soukou-matcha"
+    },
+    {
+      "brand": "Matchaful",
+      "name": "Kiwami Single Cultivar",
+      "tags": ["floral", "honey", "sweet", "beginner-friendly"],
+      "pricePerGram": 1.30,
+      "description": "A floral umami honey flavor, this is a really nice and light matcha perfect for lattes. I'll also rank this as one of my favorite matchas for now since it's pretty lightly sweet, and the perfect matcha if you don't prefer bitter tea tastes. It's definitely on the smoother end as well and easy to foam up.",
+      "imageUrl": "https://www.matchaful.com/cdn/shop/products/kiwami_30g_1da326f7-7f38-47ab-bc11-08fc909c5753.jpg?v=1642049513&width=3000",
+      "productUrl": "https://www.matchaful.com/products/single-origin-kiwami-tin-30g?selling_plan=5299142887"
+    },
+    {
+      "brand": "Japan Tea Studio 108",
+      "name": "Yame Premium Matcha",
+      "tags": ["smooth", "sweet", "roasted", "umami"],
+      "pricePerGram": 1.16,
+      "description": "Good for lattes. Has a stronger flavor but I do like the pronounced bitter matcha flavor. Excellent color as well. You can only get this ordering online or at ChaTo's physical store in San Francisco, which is a downside. This is one of my preferred matchas.",
+      "imageUrl": "https://static.wixstatic.com/media/c87099_b4f2aec0dec74ebca4d1bdbc56a98165~mv2.jpg/v1/fill/w_576,h_465,al_c,lg_1,q_80,enc_avif,quality_auto/c87099_b4f2aec0dec74ebca4d1bdbc56a98165~mv2.jpg",
+      "productUrl": "https://www.sfchato.com/product-page/yame-premium-matcha"
+    },
+    {
+      "brand": "Ippodo",
+      "name": "Ikuyo",
+      "tags": ["sweet", "umami", "beginner-friendly"],
+      "pricePerGram": 0.75,
+      "description": "Has a lighter, inoffensive, and very general flavor from matchas but is a great matcha for lattes. This is probably the perfect matcha if you are serving a large group since it doesn't lean into a certain taste. I hate the packaging though. I honestly prefer the matcha tins for packaging. I'm not sure why this is in single-use packaging when it's clearly not single-serving.",
+      "imageUrl": "https://ippodotea.com/cdn/shop/products/ippodo-tea-ikuyo-30g-matcha_854648b1-3800-40d9-8388-8d38a3129ba2_750x750.png?v=1633528820",
+      "productUrl": "https://ippodotea.com/products/ikuyo"
+    },
+    {
+      "brand": "rocky's matcha",
+      "name": "Osada Ceremonial Blend",
+      "tags": ["roasted", "smooth", "beginner-friendly"],
+      "pricePerGram": 1.80,
+      "description": "The flavor is not very offensive and is great for matcha lattes. It is also a pretty good general matcha that is good for beginners since it also doesn't lean to a certain taste profile.",
+      "imageUrl": "https://www.rockysmatcha.com/cdn/shop/files/Rocky_s-Oct-2024-Photo-7.1-NEW-0000-01.png?v=1730868111&width=3000",
+      "productUrl": "https://www.rockysmatcha.com/products/rockys-matcha-osada-ceremonial-blend-matcha-20g"
+    },
+    {
+      "brand": "kettl",
+      "name": "Hanaka",
+      "tags": ["creamy", "nutty", "chocolatey"],
+      "pricePerGram": 1.35,
+      "description": "The Hanaka is described as having a dark chocolate aroma and to me tastes as advertised. It's not my favorite so far, but it does taste quite good and also has notes of nuttiness and creaminess. But to me I prefer a more tea-like bitter taste in my matcha and this tastes quite whole and sweet. It is though a solid Kettl matcha.",
+      "imageUrl": "https://kettl.co/cdn/shop/files/91f98e9b3d2527e9093571e6c98a968b_1680x.jpg?v=1736454466",
+      "productUrl": "https://kettl.co/products/hanaka-matcha"
+    },
+    {
+      "brand": "rocky's matcha",
+      "name": "Oishi Ceremonial Blend",
+      "tags": ["astringent", "grassy"],
+      "pricePerGram": 1.80,
+      "description": "Astringent grassy flavor! It's definitely yummy but not particularly my thing. This might be really good for koichas though and if you really enjoy the matcha flavor. The price is also pretty expensive for how I feel about it personally.",
+      "imageUrl": "https://www.rockysmatcha.com/cdn/shop/files/rockys-matcha-oishi-ceremonial-blend-1.jpg?v=1725379553&width=3000",
+      "productUrl": "https://www.rockysmatcha.com/products/rockys-matcha-oishi-ceremonial-blend-matcha-20g"
+    }
+  ]
+}

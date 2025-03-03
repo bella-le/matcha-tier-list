@@ -1,0 +1,29 @@
+{
+  "brands": [
+    {
+      "name": "Ippodo",
+      "url": "https://ippodotea.com",
+      "description": "Very affordable online matcha brand. They used to be on Amazon but have now moved all their online operations to their own store."
+    },
+    {
+      "name": "Marukyu Koyamaen",
+      "url": "https://www.marukyu-koyamaen.co.jp/english/shop/products",
+      "description": "A highly-ranked matcha brand, I really want to personally try this myself. I've had it at other stores before, but this brand sells out constantly due to their limited supply."
+    },
+    {
+      "name": "kettl",
+      "url": "https://kettl.co",
+      "description": "An NYC-based tea brand that sells other teas such as hojicha, genmaicha, and oolong. They're fairly expensive but have great teas in general."
+    },
+    {
+      "name": "rocky's matcha",
+      "url": "https://www.rockysmatcha.com",
+      "description": "An LA-based matcha brand with a wide variety of different types of matcha. Generally pretty well-liked online!"
+    },
+    {
+      "name": "matchaful",
+      "url": "https://www.matchaful.com",
+      "description": "A woman-owned matcha brand based in New York. Specializes primarily in matcha and the selections are picked by the founder herself."
+    }
+  ]
+}
