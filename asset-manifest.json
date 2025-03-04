@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/matcha-tier-list/static/css/main.34434b2e.css",
-    "main.js": "/matcha-tier-list/static/js/main.eecda146.js",
+    "main.js": "/matcha-tier-list/static/js/main.eb61ff2d.js",
     "static/js/453.78ec086f.chunk.js": "/matcha-tier-list/static/js/453.78ec086f.chunk.js",
     "index.html": "/matcha-tier-list/index.html",
     "main.34434b2e.css.map": "/matcha-tier-list/static/css/main.34434b2e.css.map",
-    "main.eecda146.js.map": "/matcha-tier-list/static/js/main.eecda146.js.map",
+    "main.eb61ff2d.js.map": "/matcha-tier-list/static/js/main.eb61ff2d.js.map",
     "453.78ec086f.chunk.js.map": "/matcha-tier-list/static/js/453.78ec086f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34434b2e.css",
-    "static/js/main.eecda146.js"
+    "static/js/main.eb61ff2d.js"
   ]
 }
