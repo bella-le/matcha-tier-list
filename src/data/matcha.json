@@ -10,13 +10,22 @@
       "productUrl": "https://kettl.co/products/soukou-matcha"
     },
     {
-      "brand": "Matchaful",
+      "brand": "matchaful",
       "name": "Kiwami Single Cultivar",
       "tags": ["floral", "honey", "sweet", "beginner-friendly"],
       "pricePerGram": 1.30,
       "description": "A floral umami honey flavor, this is a really nice and light matcha perfect for lattes. I'll also rank this as one of my favorite matchas for now since it's pretty lightly sweet, and the perfect matcha if you don't prefer bitter tea tastes. It's definitely on the smoother end as well and easy to foam up.",
       "imageUrl": "https://www.matchaful.com/cdn/shop/products/kiwami_30g_1da326f7-7f38-47ab-bc11-08fc909c5753.jpg?v=1642049513&width=3000",
       "productUrl": "https://www.matchaful.com/products/single-origin-kiwami-tin-30g?selling_plan=5299142887"
+    },
+    {
+      "brand": "matchaful",
+      "name": "Hikari Single Cultivar",
+      "tags": ["nutty", "citrusy", "smooth", "beginner-friendly"],
+      "pricePerGram": 1.17,
+      "description": "The can mentioned a walnut and lemon flavor, and I was surprised that it is an accurate reflection of the actual taste. Surprisingly despite having unique notes it's relatively easy to drink, so I think that this is a good foray into more unique-tasting matchas. It has a hint of sweetness so sweetener isn't necessary for this one, but it wouldn't overpower it if it was added.",
+      "imageUrl": "https://www.matchaful.com/cdn/shop/products/hikari_30g_tasting_notes.jpg?v=1642049744&width=3000",
+      "productUrl": "https://www.matchaful.com/products/single-origin-hikari-30g-tin?selling_plan=5299241191"
     },
     {
       "brand": "Japan Tea Studio 108",
