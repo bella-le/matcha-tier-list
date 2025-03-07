@@ -24,6 +24,11 @@
       "name": "matchaful",
       "url": "https://www.matchaful.com",
       "description": "A woman-owned matcha brand based in New York. Specializes primarily in matcha and the selections are picked by the founder herself."
+    },
+    {
+      "name": "Chitchat LA",
+      "url": "https://www.chitchatla.com/",
+      "description": "An LA-based cafe that has a signature flagship ceremonial matcha."
     }
   ]
 }
